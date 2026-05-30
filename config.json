@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvync",
+        "uuid": 5700827,
+        "checksum": "tmctms"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
